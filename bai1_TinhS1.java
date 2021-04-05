@@ -11,5 +11,6 @@ public class bai1_TinhS1 {
             S += 1.0/i;
         }
         System.out.println(S);
+        //hello huy ngoc
     }  
 }
